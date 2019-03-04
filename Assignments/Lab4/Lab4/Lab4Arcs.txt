@@ -1,0 +1,14 @@
+Eldor Doldor 45
+Doldor Eldor 45
+Eldor Faldor 80
+Faldor Eldor 80
+Doldor Aldor 50
+Aldor Doldor 50
+Faldor Aldor 40
+Aldor Faldor 40
+Aldor Baldor 60
+Baldor Aldor 60
+Aldor Caldor 65
+Caldor Aldor 65
+Baldor Caldor 40
+Caldor Baldor 40

@@ -1,0 +1,6 @@
+﻿  Graphmain.cpp
+c:\users\halo2\desktop\year3.2\ds18-paulbnolan\lab3\lab3\graph.h(76): warning C4018: '<': signed/unsigned mismatch
+  c:\users\halo2\desktop\year3.2\ds18-paulbnolan\lab3\lab3\graph.h(75): note: while compiling class template member function 'Graph<std::string,int>::~Graph(void)'
+  c:\users\halo2\desktop\year3.2\ds18-paulbnolan\lab3\lab3\graphmain.cpp(20): note: see reference to function template instantiation 'Graph<std::string,int>::~Graph(void)' being compiled
+  c:\users\halo2\desktop\year3.2\ds18-paulbnolan\lab3\lab3\graphmain.cpp(20): note: see reference to class template instantiation 'Graph<std::string,int>' being compiled
+  Lab3.vcxproj -> C:\Users\halo2\Desktop\Year3.2\ds18-PaulBNolan\Lab3\Debug\Lab3.exe
